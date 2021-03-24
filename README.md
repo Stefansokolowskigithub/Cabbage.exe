@@ -8,9 +8,7 @@ A real time text-based rpg, based around the mundane nature of sauerkraut produc
 - Make sure that you have the latest version of <a href="https://www.ruby-lang.org/en/documentation/installation/">Ruby</a> installed.
 
 ## Usage
-To play the game, navigate into the root directory of the downloaded folder in the terminal and type
-
-```ruby Cabbage.exe.rb```
+To play the game, navigate into the root directory of the downloaded folder in the terminal and type ```ruby Cabbage.exe.rb```
 
 Save files for the game will be saved in ```./sav```
 
