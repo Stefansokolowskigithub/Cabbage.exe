@@ -8,7 +8,8 @@ Make sure that you have Ruby installed.
 Download the repo onto your computer.
 
 ## Usage
-To play the game, go into the root directory of the downloaded folder. Open up the terminal and type ```ruby Cabbage.exe.rb```
+To play the game, go into the root directory of the downloaded folder. Open up the terminal and type
+```ruby Cabbage.exe.rb```
 
 To play the game, write commands in the terminal and press enter.
 
